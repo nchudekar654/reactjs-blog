@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+.App-footer{
+    text-align: center;
+    height: 50px;
+    background-color: grey
+}
+.App-rightdiv{
+    padding-left: 2%;
+}
